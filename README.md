@@ -5,14 +5,17 @@ This project uses the **K-Nearest Neighbors (KNN)** machine learning algorithm t
 
 The project was developed using Python and Scikit-learn as part of a machine learning assignment.
 
-## Dataset
-The project uses the Pima Indians Diabetes dataset.
+## Dataset Source and License
 
-- 768 patient records
-- 8 input features
-- 1 target variable (`Outcome`)
-- `0` = No diabetes
-- `1` = Diabetes
+The dataset used in this project is the **Pima Indians Diabetes Dataset**, obtained from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/34/diabetes).
+
+**License:** Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+The dataset may be shared and adapted under the terms of this licence, provided appropriate credit is given.
+
+**Attribution:** UCI Machine Learning Repository – Pima Indians Diabetes Dataset.
+
+**License link:** https://creativecommons.org/licenses/by/4.0/
 
 ## Technologies Used
 - Python
